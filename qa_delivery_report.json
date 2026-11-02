@@ -1,0 +1,22 @@
+{
+  "environment": {
+    "python": "3.14.6",
+    "pandas": "3.1.0"
+  },
+  "data_qa": {
+    "shape_correct": true,
+    "unique_order_id": true,
+    "no_nulls_critical": true,
+    "formula_valid": true,
+    "bins_correct": true
+  },
+  "artifacts": {
+    "ecommerce_sales_clean.csv": true,
+    "segment_models_summary.csv": true,
+    "plots/06_01_revenue_vs_discount_poly.png": true,
+    "plots/06_02_quantity_vs_discount_poly.png": true,
+    "plots/06_03_bar_revenue_by_bin_category.png": true,
+    "plots/06_04_bar_quantity_by_bin_category.png": true
+  },
+  "final_status": "READY"
+}

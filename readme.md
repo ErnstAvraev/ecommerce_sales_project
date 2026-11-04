@@ -66,7 +66,7 @@ $$revenue = quantity \times unit\_price \times (1 - discount)$$
 - 📊 `06_03_bar_revenue_by_bin_category.png/pdf` — выручка по корзинам и категориям.
 - 📊 `06_04_bar_quantity_by_bin_category.png/pdf` — количество по корзинам и категориям.
 
-## BI
+## 📁 BI
 - 📈 `dashboard.png` — итоговый дашборд.
 - 📈 `Влияние скидки на выручку.png`
 - 📈 `Выручка.png`

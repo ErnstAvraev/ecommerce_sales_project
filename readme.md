@@ -36,7 +36,7 @@ $$revenue = quantity \times unit\_price \times (1 - discount)$$
 ---
 
 ## 🗂 Структура проекта
-# ecommerce_sales_/
+# ecommerce_sales_project/
 
 - 📄 `README.md` — описание проекта (этот файл).
 - 📊 `ecommerce_sales_analytics_5000.csv` — исходный датасет (5000 заказов).

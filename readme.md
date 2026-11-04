@@ -36,7 +36,7 @@ $$revenue = quantity \times unit\_price \times (1 - discount)$$
 ---
 
 ## 🗂 Структура проекта
-# ecommerce_sales_analytics/
+# ecommerce_sales_/
 
 - 📄 `README.md` — описание проекта (этот файл).
 - 📊 `ecommerce_sales_analytics_5000.csv` — исходный датасет (5000 заказов).
@@ -46,7 +46,6 @@ $$revenue = quantity \times unit\_price \times (1 - discount)$$
 - 📋 `qa_delivery_report.json` — отчёт о качестве данных и воспроизводимости.
 - 📘 `metadata_ecommerce.md` — метаданные датасета.
 - 📗 `pipeline_ecommerce.md` — описание аналитического пайплайна.
-- 📕 `data_systems_intelligence_architect_preprompt.md` — ролевая инструкция аналитика.
 
 ## 📁 plots/ — визуализации (PNG + PDF)
 
@@ -66,6 +65,20 @@ $$revenue = quantity \times unit\_price \times (1 - discount)$$
 - 📊 `06_02_quantity_vs_discount_poly.png/pdf` — финальный тренд количества.
 - 📊 `06_03_bar_revenue_by_bin_category.png/pdf` — выручка по корзинам и категориям.
 - 📊 `06_04_bar_quantity_by_bin_category.png/pdf` — количество по корзинам и категориям.
+
+## BI
+- 📈 `dashboard.png` — итоговый дашборд.
+- 📈 `Влияние скидки на выручку.png`
+- 📈 `Выручка.png`
+- 📈 `Депонирование по категориям.png`
+- 📈 `Динамика во времени.png`
+- 📈 `Индикаторы.png`
+- 📈 `Количество заказов.png`
+- 📈 `Количество уникальных клиентов.png`
+- 📈 `Медианная выручка.png`
+- 📈 `Распределение и корреляция.png`
+- 📈 `Средний чек.png`
+- 📈 `Средняя скидка.png`
 
 ---
 
